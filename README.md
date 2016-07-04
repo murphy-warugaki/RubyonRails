@@ -5,5 +5,5 @@
 - Rails 4.2.6
 
 ###To do App
- - MVC
- - Test
+  -  MVC
+  -  Test
